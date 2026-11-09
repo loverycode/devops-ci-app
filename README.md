@@ -6,3 +6,4 @@ CI: Pylint -> pytest -> Docker build -> smoke-test -> GHCR.
 
 - health endpoint: `/health`
 - образ: `ghcr.io/loverycode/devops-ci-app`
+<!-- trigger -->
